@@ -1,0 +1,6 @@
+dewptm		Dew point in degrees Celsius
+hum		Humidity (percentage)
+pressurem	Pressure in mBar
+tempm		Temperature in degrees Celsius
+wdird		Wind direction in degrees
+wspdm		Wind speed in kilometers per hour (kph)
