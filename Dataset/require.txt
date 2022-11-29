@@ -1,0 +1,4 @@
+2 dạng csdl 
+Time series: 2 biểu đồ
+- Động theo thời gian
+- Giá trị actual and predict
